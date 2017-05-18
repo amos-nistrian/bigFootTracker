@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Destinations</string>
+    <string name="title_activity_destinations_map">Map</string>
+    <string name="title_activity_mapstest">Map</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
+
